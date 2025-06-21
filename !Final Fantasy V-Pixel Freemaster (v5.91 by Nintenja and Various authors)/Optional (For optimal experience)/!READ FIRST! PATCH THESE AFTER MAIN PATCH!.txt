@@ -1,0 +1,35 @@
+Just patch the main patch you want from the other folder and than patch any or all of these optional patches after the main patch.
+Some of these optional patches will become a part of the main patches in the future.
+
+*****CHOOSE ONE OF THE THESE********
+*START Button starts Encounters (Cubear) encounters remain at their original rates but when u press the Start button and walk one step an
+encoutner will trigger. This is great for grinding as instead of the game deciding when u would like yournext battle you can instead force a battle.
+
+*No encounters (press START+Walk for Encounter)(Cubear) Exactly what it says, there will be no more random encounters in the game. However 
+if you would like to force an encounter at any time just press Start and walk a step and an encounter will be forced. This puts you in complete control
+of when you fight a battle outside boss fights and scripted encounters such as the 2 goblins you fight to start the game.
+--------------------------------------------------------------
+:::::::::Patch as many of these as you like:::::::
++1 LVL up spell change (xJ4cks) Time spell was useless and is already renamed to "LVL up" in main patch adding +7 levels to the character
+its used on. This changes the spell to only LVL up +1 instead of +7.
+
+2X ABP,XP,GIL (C_CLIFF)+Fixes by clymax v1.1 does what it says. Makes game easier as a result but it really just speeding up the 
+inevitable. A great QOL feature now fixed.
+
+BSNES 60hz fix (clymax) If you want to play on BSNES emulator this fixes the game speed to run at 60hz instead of 50hz.
+
+I would only recommend Co-Op controlling sharing hack by STARWIN if you want to play with the hack, not for normal playthroughs.
+
+L&R Button Leader Swap (Cubear) swaps the leader in maps. It may have an issue or two needs fixing so its optional for now. Super cool
+hack.
+
+No Auto Passages&Auto Find Pits (Nintenja) removes the auto passages and auto find pits skills so they are only available when earning 
+the skills from job classes. If you don't use this patch the game will auto spoil where hidden passages and secret rooms are, you will also 
+receive damage from environmental objects. If you are going to be mastering all the jobs anyways you will eventually have this by default.
+
+Original Title Screen (Nintenja) for purists will restore the original FFV vanilla title screen with the dragon in the back and without the words 
+Pixel Freemaster above the Final Fantasy V Logo.
+
+*All jobs unlocked at Windshrine has All the jobs including Mime be unlocked after you receive the first set of crystals upon completion of the 
+Windshrine. This is already included in the "FFV-Pixel Freemaster-Kick Butz Edition" main patch.
+

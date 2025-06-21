@@ -1,0 +1,494 @@
+Final Fantasy V Pixel Freemaster and Final Fantasy V-Pixel Freemaster-Kick Butz Edition (v5.91)
+(hack by Nintenja and Various authors)
+-----------------------------------------------------------------------------------------------------
+Word from Nintenja the creator/releaser of this Project:
+Final Fantasy V is a masterpiece I first played over 20 years ago as a teenager on the Sony Playstation 1. It was a long grind to max out all job classes 
+but it was worth it. I sought to create the ultimate version of Final Fantasy V for the SNES (or really any console). I recently bought and played the 
+Pixel Remaster of FF5 on Android and noted the lack controller support.. Fans have requested this option and those without a pc and who must play 
+FF5 on Android are surely not getting their wishes granted, as well there are many QOL hacks for the game only available for the SNES version.. 
+So, in yearning to put together the most Butz kicking Edition of FF5, I added every QOL feature one could dream of to this game including all
+the bugfixes, improved sprites, MSU1 v4 patch for CD quality, and the improved GBA translation v1.16 patch. Than further QOL patches like the 
+better item menu and auto patches such as auto learning, auto dash,auto map, auto pits, and auto passages among others really improved gameplay 
+and were added. Better job equipment makes life a little easier for some classes as well. Sick of missing out I added the no missable items and spells 
+patches. To top all this off I added the double xp,abp,and gil patch to make progression less grindy. You can stop here and have a fine Pixel Freemaster, 
+however, Optionally Maybe go a step further adding the all Jobs unlocked patch which unlocks every job right after the wind shrine is completed, however, 
+this is the Kick Butz Edition and boy is it awesome having them so early on..if you feel it's too early for all the job classes to be unlocked and usable than 
+simply exercise restraint and use them only after the points you actually would have received them in the vanilla version or just apply the Pixel Freemaster 
+version (without all jobs unlocked) which does not include all Jobs unlocked. In version 3.0 I took it a step further for both Pixel Freemaster Versions. 
+Borrowing from an idea from the FFV Tweaks (hack by T92) forum on RHDN I found INU's amazing little known QOL patches from 2010 and patched them 
+in giving both versions L+R character switching in Menu (a Godsend), faster menu scrolling speed, the ability to switch characters in battle with a Full ATB 
+Guage using the X button like in FF6 (really helps in strategizing), the ability to hold B to run on the world map, a total item slot counter displayed on the 
+items menu like in FF6, and Color Changing HP in battle as Hp percentage decreases. In version 4.00 I added in Inu's optimise patch for better equipment 
+optimization as well as a New Game Plus Mode. In v4.33 I added in two Inu patches the equip change patch which automatically collects items that were 
+removed due to equipment changes during battle and an equip change fix. In version 4.50 I fixed a cosmetic issue with the configuration menu brought to 
+my attention by playtester and RHDN username Tombo69. In version 4.85 I replaced the useless drag spell with a temporary level up caster by 7 levels spell 
+renamed "level".I also added Super Custom Classes by flampepurge to all versions to make each job more customizable.  If you are grinding or farming for 
+levels, abp, or gil  you should make sure to have Fight as one of your equipped skils and than make sure you can go to the config menu in game and change 
+the cursor setting from reset to memory to make the game automatcially have fight or whatever move you want automatically selected for each character. 
+In version 4.99 I have added many features into both versions of the hack including: Fast rom support by Kandowontu, Clean Warriors by (Cubear,XJ4cks, 
+and various others) so now ALL MAP SPRITES REFLECT JOBS, Mime Galuf Battle Sprite patch 1.0 by clymax which creates a playable sprite of Galuf for the 
+mime job, Pantz n Sleeves_Final by XJ4cks, and added an optional patch that includes coop controller sharing hack by STARWIN. In version 5.0 I added the newest 
+version of Dress code v1.0(beta) by Cubear which improves job class sprites and also makes map sprites reflect job sprites, ported GBA Script Blue Diamonds (Blue 
+Diamond icons for Blue Magic), GBA Script Clean Weapons by xJ4cks which makes some improvements to item names amongst fixing some GBA script typos, and 
+now characters in the games menu are in boxes like in Pixel Remaster. In version 5.20 with help from xJ4cks the Title screen now says Pixel Freemaster (original title 
+screen version is available as an optional version). In version 5.55 I added Inu's Berserk Patch (ff5 berserk command) as well as two patches by Inu that itdepended on 
+ff5 auto jump+ff5 berserk jump. I also added ff5 swdslap standalone by RosoDude (fixes issue) and FFV Clean Krile&Lenna fixed by xJ4cks. In version 5.59 we fixed a bug 
+that made Bartz name appear as a boomerang at the start of the game (Thanks xJ4cks), added an optional no auto passages and no auto find pits patch, as well as an 
+optional rstore vanilla title screen patch. In version 5.70  xJ4cks fixed made berzerker job work better as well as made an optional patch that changes the Time Magic 
+Level up spell to a +1 LVL up for 7MP that should provide alternativeto the current +7 lvl LVl up spell for 4MP. Included optional patches that add co-op controller 
+sharing hack (STARWIN). Version 5.77 was a rebuild of the entirety of the project going back to v5.00. This version was released to RHDN AND RHDO. Version 5.78 
+includes (optional) BSNES 60hz fix (clymax). Version 5.80 has the optional 2x ABP,XP,GIL Patch by C_CLIFF nut now the GFX glitch it causes in battle is gone thanks to
+CLYMAX! Version 5.81 Clymax expands upon his fix with another fix making things work perfectly in the optional 2XABP,XP,GIL patch. Version 5.82 adds in an optional 
+patch by Cubear that turns off random encounters, however pressing the start button and taking one step will load a random encounter. Version 5.88 includes an optional 
+START Button starts Encounters (Cubear) patch where encounters remain at their original rates but when u press the Start button and walk one step a random encounter will 
+trigger. This is great for grinding as instead of the game deciding when u would like yournext battle you can instead force a battle. V5.88 also includes an optional L&R Button 
+Leader Swap (Cubear) which swaps the leader in maps. It may have an issue or two needs fixing so its optional for now. It's a super cool hack. Version 5.91 includes an updated 
+LR Leader swap by Cubear that fixes some issues. I believe these additional add-ons bring this project to a level on par or greater than an official release of FFV that recently 
+released. I hope you enjoy what I personally feel is one of the greatest versions of FFV to date. I have a great deal of respect and gratitude for the video game rom hacking 
+community so I hope people playing this will enjoy and appreciate all the work put into this project by everyone whose work is included here as well as my own efforts. 
+This project has tons of hours of extra tweaking, tinkering, hacking, testing, patching, merging, porting, moving, bug fixing, and time sprinkled in for good measure. I hope 
+you enjoy this Pixel Freemaster as much as I have and make sure to thank and follow all the authors whose included in this work.
+ 
+*Latest version patch of this project and updated information can always be found at https://www.romhacking.net/hacks/8743/
+*Fantasyanime.com an amazing Retro RPG Fan site was kind enough to host this hack .ips available for download here at https://fantasyanime.com/finalfantasy/ff5/ff5down. 
+*Zeldix.net Link https://www.zeldix.net/t2551-final-fantasy-v-pixel-freemaster-msu1a-ton-of-qolimprovement-and-bugfix-hacks-by-nintenja
+XJ4cks told me he was inspired by playing this romhack last year and started making his Final Fantasy V/5R Clean Edition. Well, I was inspired by him to continue further work
+on this hack going forward. Thanks xJ4cks and Cubear also for your help in bringing v5.59 to life. Check out his amazing hack at https://www.romhacking.net/hacks/8332/
+Also big thanks to FFV Den Dicord group and RHDN.
+
+Found any bugs or issues or just want to say hi? Contact me at RHDN.
+For links and list of all my projects current and future as well as a link to this project's RHDN page:  
+https://www.romhacking.net/forum/index.php?topic=35801.0       (Nintenja is a Senior Member at RHDN)
+Sub and follow me on youtube https://youtube.com/@TheNintenja
+Nintenja can also be found Moderating Retro Gamers Haven/Modern Gamers Haven/and Rom Hackers Annonymous Discord Groups
+Nintenja also playtests rom hacks such as Chrono Trigger Plus by The Great Ben v3.0/3.1 and is an aspiring indie game creator
+===================================================================
+INSTRUCTIONS FOR USE/INSTALLATION:
+Visit https://www.marcrobledo.com/RomPatcher.js/ or any .ips patching software.
+*On Android you can use unipatcher which is available in the play store.
+
+1.Open the unheadered Final Fantasy V (J) rom
+I applied the patches to a "FFV (J)" unheadered rom and everything seemed great
+CRC32:  c1bc267d
+MD5:  d69b2115e17d1cf2cb3590d3f75febb9
+SHA-1:  e937b54fff99838e2e853697e4f559359aa91fd6
+
+2.Open the Final Fantasy V-Pixel Freemaster or Final Fantasy V-Pixel Freemaster-Kick Butz Edition.ips patch
+
+3.Apply the patch (your choice of all Jobs unlocked or all jobs not unlocked).(I cannot give location instructions for where to get the rom other than Google search maybe if you wanna-up to you)
+
+4.In "Optional" folder pick any hacks that interest you and patch them after the main patch.
+
+It is recommended to use this with MSU1 Audio as this is already patched for msu1 playback. Such as the Pixel Remaster MSU1 audio pack by Brutapode 
+https://mega.nz/file/UD5iHZoT#ShQSVGn-9RPCSsGhlo_4m0RAaZ-5JS8Cu2c1eybzGxk
+or various other MSU1 sound packs (choice is Up to you)
+https://www.zeldix.net/t2070-final-fantasy-v
+This version should work fine with or without MSU1 audio files.
+
+Just pick which MSU1 pack you would like to use and rename the patched rom appropriately to match the msu files for CD quality sound. Nintenja 
+does not own the audio sound packs nor did he create them and is not giving you permission to use them. 
+
+Rom extensively tested with MSU1 Audio pack on SNES9X emulator for android.
+
+:::::::ROADMAP FOR VERSION 5.80-V6.66(FINAL):::::::(these are subject to change)
+when its ready optional *LR lead character switching in maps by cubear incorporate into main patch
+incorporate 2x abp,xp,gil into main patch. Optional anti-patch.
+Incorporate 60hz BSNES fix into main hack.
+optional extremely easy story mode
+V5.95 3 Ninjas Prototype hack
+V6.00 Hard Type-Prepare to die editon
+V6.00 Auto Barrier optional patch
+V6.11 optional 3 items to steal per monster (haven't tested)
+V6.33 xj4cks Clean Edition Script implementation (instead of GBA script)
+V6.44 Whirlwind integration
+V6.55 rejobbed integration
+V6.66 ffv spoof integrationn
+-----------------------------------------------------------------------------------------------------------------------
+Name By order patches installed::
+FF5 (J) Rom (not included)+Fast Rom by Kandowontu+Clean Warriors by (Cubear,XJ4cks, and various others)+Mime Galuf Battle Sprite patch 1.0 by clymax+
+Pantz n Sleeves_Final by XJ4cks+MSU1 patch by Conn v4+GBA translation v1.16 patch w/Inu bugfixes patch included & Bartz Name Fix v1.0 patch
++Bug Fix v1.0 patch+quick death v1.0 patch+Galuf hair fix patch+Sprite touchups v1.03 patch+auto learning patch+auto dash patch
++2x XP,ABP,GIL patch+better item Menu v1.0 patch+auto find pits patch+auto map patch+auto passages patch+shop price changes v1.0_patch
++treasure_change_v1.0+monster_change_v1.0_patch+all_Jobs_unlocked_v1.0_patch+better_job_equipment_v2.1+ff5_atb_switch.ips
++ff5_fast_menu_scroll.ips+ff5_field_dash.ips+ff5_hp_color.ips+ff5 items total.ips+ff5 lr menu-*.ips+ff5 fast menu scroll.ips+ff5 field dash.ips
++ff5 hp color.ips+s+ff5_optimise+ff5_new game plus+ff5_equip_change.ips+ff5_equip_change fix.ips+Replace Drag spell with temporary 7 level up 
+and renamed level v1.0+Super Custom Classes v1.0+(optional)all jobs unlocked+Dress code v1.0 (beta)+GBA Script Blue Diamonds
++GBA Script Clean Weapons+(optional)co-op controller sharing.+FFV Pixel Freemaster Title Screen+ff5 berserk command+ff5 auto jump+ff5 berserk jump
++ff5 swdslap standalone+FFV Clean Krile&Lenna fixed+boomerang name fix+fixed berzerker+(optional)co-op controller sharing+(optional) 2x_XP,ABP,GIL
++(optional)BSNES 60hz fiix (clymax)+(optional)2X ABP,XP,GIL (C_CLIFF) Fixes by CLYMAX v1.1+(optional) No encounters (press start+walk for encounter)(Cubear)
++(optional) !START Button starts Encounters (Cubear)+(optional) L&R Button Leader Swap (Cubear)
+
+Appropriate full name after patching Rom
+Final Fantasy V-Pixel Freemaster (v5.80 by Nintenja) or Final Fantasy V-Pixel Freemaster-Kick Butz Edition (v5.80 by Nintenja) 
+(featuring Fast Rom by Kandowontu+Clean Warriors by (Cubear,XJ4cks, and various others)+Mime Galuf Battle Sprite patch 1.0 by clymax
++Pantz n Sleeves_Final by XJ4cks+MSU1 patch by Conn v4+GBA translation v1.16 w/Inu bugfixes & Bartz Name Fix v1.0+Bug Fix v1.0+quick death v1.0
++Galuf hair fix+Sprite touchups v1.03+better item Menu v1.0+auto learning+auto dash+auto find pits+auto map+auto passages revealed+better job equipment v2.1
++shop price_changes_v1.0+treasure_monster_change_v1.0+ff5_atb_switch.ips+ff5_fast_menu_scroll.ips+ff5_field_dash.ips
++ff5_hp_color.ips+ff5 items total.ips+ff5 lr menu-*.ips+ff5 fast menu scroll.ips+ff5 field dash.ips+ff5 hp color.ips+ff5_optimise+ff5_new game plus
++ff5_equip_change.ips+ff5_equip_change fix.ips+Replace Drag spell with temporary 7 level up and renamed level v1.0
++Super Custom Classes v1.0(+all Jobs unlocked v1.00 in Kick Butz Edition only)-RPG-1992)+(optional) 2x_XP,ABP,GIL
++Dress code v1.0(beta)+GBA Script Blue Diamonds+GBA Script Clean Weapons+-FFV Pixel Freemaster Title Screen+ff5 berserk command+ff5 auto jump+
+ff5 berserk jump+ff5 swdslap standalone+FFV Clean Krile&Lenna fixedc by xJ4cks+Boomerang name fix+fixed berzerker+(optional)co-op controller sharing
++(optional)BSNES 60hz fix (clymax)+(optional)2X ABP,XP,GIL (C_CLIFF) Fixes by CLYMAX v1.1+(optional) No encounters (press start+walk for encounter)(Cubear)
++(optional) !START Button starts Encounters (Cubear)+(optional) L&R Button Leader Swap (Cubear)
+
+:::::Credits for patches, patch version used, descriptions of patch each used, and link to each individual patch below:::::
+Fast Rom Patch By Kandowontu
+
+Clean Warriors by Cubear, XJ4cks, and various authors (Dress code v1.0 (beta) included by Cubear)
+
+Pantz n Sleeves final by XJ4cks
+
+Time spell renamed to LVL up (xj4cks)
+LVL Up spell changed to +1lvl for 4MP  (optional)(xj4cks)
+
+Berzerker job fix by xJ4cks and Nintenja
+
+ Mime Galuf Battle Sprites on FFV v1.0
+Released by Clymax
+ https://www.romhacking.net/hacks/8668/
+Description from Clymax:
+ Mime Galuf isn’t accessible via normal means in the vanilla game. So, the developers didn’t bother with making battle sprites for that combo.
+Any tinkerer who’s tried using Mime Galuf will discover what ensues. Galuf turns invisible in battle and menu, but the game remains (otherwise) playable.
+This patch adds the “missing” battle sprites to the game.
+
+FFV Co-Op Controller Sharing v1.0
+Released by STARWIN
+https://www.romhacking.net/hacks/2122/
+Description:
+This hack allows the players to determine who controls the game outside battles: whoever controls the character in the first slot will have control.
+This does not affect battles. Changing character order or changing character ownership will immediately swap control accordingly.
+That is all this does. The game already has controller sharing for battles and controller choosing for characters.
+
+MSU-1 Patch by Conn (v4: sd2snes resume fixed):
+https://drive.google.com/open?id=1o2XQfHcLWnFp6c8KJsa6HOKgLL51tQO5
+
+Final Fantasy V - GBA Script Port v1.16
+Released By J121
+https://www.romhacking.net/hacks/3687/
+Description from J121:
+As the name implies, this hack is a complete port of the English GBA games script over the original RPGe fan translation, using Noisecross FFe 
+Text Editor v1.6. This hack replaces all in-game field text, battle text, spell names, item names, monster names etc. with their relevant GBA equivalents, 
+except where compromises had to be made to accommodate the stricter space limitations of the SNES game. An attempt was made to prefer new creative 
+names over jarring abbreviations where necessary to fit space limitations. Graphics for the fonts were also edited, with the main variable-width font replaced 
+with the thin font from Earthbound, purely because it allowed more space for text, especially in battle. NOTE: As of v1.04, this font has been replaced with a 
+thin font that resembles the font from FF4, for greater consistency.
+
+FFV GBA Script Port Fix - Static Bartz in Dialog
+Released By Kouga47
+https://www.romhacking.net/hacks/6005/
+Description from Kouga47:
+In the fantastic GBA Script port hack, there are three instances where the name shown in the dialogue for the main character is Bartz, his default 
+name, no matter if you changed his name or not at the beginning of the game. This patch should fix that issue. 
+
+BUGFIXES
+various bugfixes sourced from slickproductions.org, as well as those
+included in noisecross' FF5e text editor.
+They are as follows:
+ - Caught monster display
+ - Catch bug fix
+ - Kiss of Blessing bug fix
+ - Power Drink bug fix
+ - Observe bug fix
+ - Bartz's blue mage sprite fix
+ - Berserk chicken knife fix
+ - Two Galufs fix
+ - Faster common death animation
+ - Fractional M parameter knife fix (http://slickproductions.org/slickwiki/index.php/FF5_Patch:Fractional_M)
+ - Walk through walls fix
+ - Landing fix
+See http://slickproductions.org/slickwiki/index.php/Final_Fantasy_V_Hacking#Patches for more information.
+Also included is an optional patch that makes Galuf's hair consistently ginger. Again, this should be patched OVER the main
+patch.
+
+Quick Death v1.6
+Released By Leet Sketcher
+https://www.romhacking.net/hacks/3216/
+Description from. Leet Sketcher:
+When you kill an enemy, it dies using the slowest animation possible: a two-second long dissolve. Since the GBA versions dissolve animation is much 
+faster, this patch makes the SNES dissolve fast also.
+
+Final Fantasy V bugfix patch collection v1.0
+Released by Inu
+https://www.romhacking.net/hacks/3766/
+Description from Inu:
+This is a collection of bugfix and improvement patches for the Japanese version of Final Fantasy V for the Super Famicom from Inus
+
+FFV Sprite Touch-ups v1.03
+Released By	Chicken Knife
+https://www.romhacking.net/hacks/4537/
+Description from Chicken Knife:
+This is a hack of Final Fantasy V that addresses over 90 minor graphical errors and inconsistencies in the battle sprites for characters across every job. 
+The errors include items like a blue pixel present in Bartzs hair in one of his Bare animation frames or flickering pixels during numerous attack 
+animations in arms, legs and bodies. This hack strives to bring the overall quality of FFVs battle sprites up to the more polished standard of FFIV and FFVI.
+
+FF5 Better Item Menu v1.0
+Released By Tzepish
+https://www.romhacking.net/hacks/6818/
+Description from Tzepish:
+This patch is an edit of Inus item menu patches to make them compatible with all versions of Final Fantasy 5, not just the Japanese version. It has two 
+effects:
+https://www.romhacking.net/hacks/3766/- First, it greys out the Tent and Cottage items in situations where they cannot be used (such as in a dungeon or 
+town while not on a save point).
+- Second, it improves the equipment Sort order, so that instead of giving you a pile of weapons followed by a pile of armors, it groups them together based 
+on their leading icon, like how FF6 does it. This makes the item menu much more readable!
+
+FF5 Automatic Sprint, Learning, etc. v1.1
+Released By Tzepish
+https://www.romhacking.net/hacks/3746/
+Description from Tzepish:
+These patches are small convenience enhancements for Final Fantasy 5. They ensure that the Sprint(or Dash) and Learning
+abilities are always considered active, allowing you to devote your precious ability slots to other things.
+Version 1.1 adds a few other oft-requested patches (and one not-so requested patch):
+Reverse Sprint button check (Sprint by default; hold B to walk)
+Always Find Pits
+Always Passages
+Always Map
+
+Final Fantasy V: Better Job Equipment v2.1
+Released By T92
+https://www.romhacking.net/hacks/6710/
+Description from T92:
+This patch improves the range of weapons that can be equipped by some jobs, some based on previous Final Fantasy games and some based on other 
+similar jobs; check out the readme file for more info.
+
+FF5 No Missable Items & Spells v1.0
+Released By Tzepish
+https://www.romhacking.net/hacks/6893/
+Description from Tzepish:
+Shops Patch: Adds the missable spells and non-unique missable items to shops throughout the game.
+Monster/Treasure Patch: Relocates unique missable items that can be missed to non-missable boss drops and treasure chests.
+
+FF5 Job Unlocker v1.0 (only in Kick Butz Edition)
+Created by Modoh
+https://www.romhacking.net/hacks/6926/
+Description from Modoh:
+Simple hack that unlocks all of the jobs in FF5 as soon as you open your menu.
+Intended for Fiesta playthroughs where you're assigned random jobs to use, and may want to use them before they're unlocked normally.
+
+FFV Pixel Freemaster Title Screen Patch by xJ4cks
+
+Bartz intro boomerang name bug fix by Cubear and xJ4cks
+ 
+ (optional)*No encounters (press START+Walk for Encounter)(Cubear) Exactly what it says, there will be no more random encounters in the game. However 
+if you would like to force an encounter at any time just press Start and walk a step and an encounter will be forced. This puts you in complete control
+of when you fight a battle outside boss fights and scripted encounters such as the 2 goblins you fight to start the game.
+
+(optional)*START Button starts Encounters (Cubear) encounters remain at their original rates but when u press the Start button and walk one step an
+encoutner will trigger. This is great for grinding as instead of the game deciding when u would like yournext battle you can instead force a battle.
+
+(optional)2X ABP,XP,GIL (C_CLIFF) Fixes by CLYMAX v1.1
+
+(optional) L&R Button Leader Swap (Cubear) which swaps the leader in maps. 
+It may have an issue or two needs fixing so its optional for now. It's a super cool hack
+
+ (optional) Co-op Controller Sharing by Starwin v1.0
+ 
+ (optional)BSNES 60hz fix (clymax)
+ 
+FF5 Double EXP, Gold and ABP v1.0
+Released By C_CliFF
+https://www.romhacking.net/hacks/5665/
+Description from C_CliFF:
+This is a simple patch that doubles EXP, gold and ABP to halve grinding.
+
+(optional)FF5 Double EXP, Gold and ABP v1.0  w fixes v1.1 by Clymax
+
+=========================================================
+In version 3.0 I also Applied these open source patches created by INU <inuchr@gmail.com> (I tested and they all seem to be working fine)
+ff5_atb_switch.ips        Added a function to switch the action order with the X button.
+ff5_fast_menu_scroll.ips   increases the scroll speed of regular menus.
+ff5_field_dash.ips        Enables B dash on the field map.
+ff5_hp_color.ips         Makes the color of HP displayed during battle change according to the percentage of remaining HP.
+ff5_items_total.ips.      Like FF6, display the number of items you have in the item menu
+ff5_lr_menu-*.ips.       Add LR menu functionality.
+
+In version 4.0 I added 2 more Inu patches:
+ff5_optimize.ips  by INU   improves handling of strongest equipment.
+ff5_ngplus (new game plus option) 
+Per the words of INU (translated to English): "Add strong and new game. After entering L and R on the loading screen, If you select save data you will
+ inherit, jobs, abilities, items, magic, money_Play time_Number of monsters defeated_Start the new game"
+
+In version 4.33 I added the following 2 Inu patches and fixed a 
+1. ff5_equip_change.ips
+Automatically collects items that were removed due to equipment changes during battle.
+2. ff5_equip_change fix.ips. (I guess a fix for above patch)
+
+In version 4.50 I fixed an issue with a cosmetic configuration menu bug.
+Thanks go to Tombo69 for playtesting and bringing this bug to my attention!
+
+In version 4.85 I made 2x abp,gil,xp an optional version for both Pixel Freemaster and Pixel Freemaster-Kick Butz Edition 
+due to a small almost unnoticable graphical bug it creates in the end of each battle right before the battle rewards screen that I'm finding difficult to fix right now.
+I would suggest playing the version with the 2x abp,gil,xp patch to grind extra levels, gil, and job classes, but than switch to the non-2x abp,gil,xp edition for regular
+gameplay. Saves should  be compatible with both versions. But, if got don't care about the small and barely noticeable graphical bug than
+I'd recommend just using the versions with the 2x abp,gil,and xp included. 
+*I also added in Super Custom classes https://www.romhacking.net/hacks/5790/ by flamepurge to each version. Description is "A port of the basic features of 
+Custom Classes by ludmeister to the SNES version of FFV. Each of the Jobs can now use a wider range of equipment, and the majority are no longer forced to 
+use !Fight and !Item. Should work with any version of the game."Basically this let's you customize each job to your liking. A white and black mage for instance 
+no longer has to have fight as a command anymore. Make sure if grinding or farmingfor levels, abp, or gil that yiu visit the in game config menu and set the 
+cursor to memory to make sure the last command such as Fight is chosen each time automatically when
+its a characters turn in battle.
+*Added FF5 Replace the Drag/Speed Spell with temporarily raise the caster’s level by 7 patch and renamed it to "level"..Patch by Tzepish.
+https://www.romhacking.net/hacks/6858/
+
+In version 4.99  Added Fast Rom Support by Kandowontu which should make the game run smoother in both emulation and console. I Added Clean Warriors by 
+Cubear, XJ4cks, and various authors which let you view your characters in their job outfits on all maps including towns and world map.  I Added pantz n sleeves 
+final by XJ4cks which does as it says. Added Mime Galuf Battle Sprites by Clymaxwhich gives Galuf a Mime Sprite in battle when playing with the All Jobs Unlocked
+ version instead of being invisible. I also Added optional Co-op Controller Sharing by Starwin.
+
+In version 5.0 Added newest version of Dress code v1.0(beta) by Cubear which improves job class sprites and also makes all job class sprites viewable in all maps. Ported 
+GBA Script Blue Diamonds (Blue Diamond icons for Blue Magic) and Ported GBA Script Clean Weapons by xJ4cks which makes some improvements to weapon 
+names amongst fixing some GBA script typos.
+ 
+In version 5.20 with help from xJ4cks now we have the words Pixel Freemaster on the title screen above Final Fantasy V and also added Inu's ff5_berserk_command.ips patch 
+so When attacking in berserk state, if there are commands such as Plunder, Jump, Head Attack, and Aim they will be used instead of "Fight". 
+
+In version 5.55 added ff5 auto jump+ff5 berserk jump by Inu which are needed to make ffv berzerk command
+ to work righ tby Inu +ff5 swdslap standalone by RosoDude+FFV Clean Krile&Lenna fixed by xJ4cks
+
+In version 5.59 fixed Bartz beginning of game Boomerang name bug (xj4cks and cubear).
+In Version 5.77 made an optional patch to change LVL UP spell to +1LVL up for 7MP (xj4cks). Removed co-op controlling sharing (STARWIN) and included as optional patch.
+Fixed berzerker job by xj4cks. 
+In version 5.78 included (optional)BSNES 60hz fix (clymax)
+In version 5.80/5.81 Clymax fixed the GFX glitch in the DOUBLE XP,ABP,GIL patch by C_Cliff with (included as optional all in one patch)
+In version 5.82 added (optional) !No encounters (press start+walk for encounter)(Cubear)
+In version 5.88 added (optional) !START Button starts Encounters (Cubear) and (Optional) L&R Button Leader Swap (Cubear)
+------------------------------------------------------------------------------
+Detailed CHANGELOG FOR all Released VERSIONS:
+::::::::::Version 1.0::::::::
+Named Final Fantasy V-Freemastered-Kick Butz Edition and uploaded to RHDN (removed it from RHDN shortly after)-initial release included MSU1 
+patch by Conn v4+GBA translation v1.16 patch w/Inu bugfixes patch included & Bartz Name Fix v1.0 patch+Bug Fix v1.0 patch+quick death v1.0 patch
++Galuf hair fix patch+Sprite touchups v1.03 patch+auto learning patch+auto dash patch+2x XP,ABP,GIL patch+better_item_Menu_v1.0_patch+auto_find_pits_patch
++auto_map_patch+auto_passages_patch+shop_price_changes_v1.0_patch+treasure_change_v1.0+monster_change_v1.0_patch+all_Jobs_unlocked_v1.0_patch
++better_job_equipment_v2.1+weapon formula tweaks v1.3(found to be bugged)(removed)
+
+:::::::::Version 2.0 changes::::::::
+Renamed hack to Final Fantasy V-Pixel Freemaster and made the All Jobs Unlocked patch exclusive to the Kick Butz Edition, creating two separate versions.. 
+Retained every other patch but removed weapon formula tweaks v1.3.
+Fixed a sound, cosmetic, and certain weapons not doing appropriate damage issue. Improved compatibility of all hacks in use.
+I also Updated the readme and uploaded patches to archive.org for download
+
+:::::::::V3.0 changes::::::::
+Retained everything that made version 2.0 great but patched in 6 open source QOL patches made by INU released back in 2010 into both main patches.
+ff5_atb_switch.ips        Added a function to switch the action order with the X button.
+ff5_fast_menu_scroll.ips  increases the scroll speed of regular menus.
+ff5_field_dash.ips        Enables B dash on the field map.
+ff5_hp_color.ips         Makes the color of HP displayed during battle change according to the percentage of remaining HP.
+ff5_items_total.ips.      Like FF6, display the number of items you have in the item menu
+ff5_lr_menu-*.ips.       Add LR buttons usage to navigate menus.
+
+:::::::::v4.0 changes:::::::::::::
+ff5_optimize.ips  by INU   improves handling of strongest equipment.
+ff5_ngplus (new game plus option) 
+Per the words of INU (translated to English): "Add strong and new game. After entering L and R on the loading screen, pull
+If you select save data to inherit, jobs, abilities, items, magic, money_Play time_Number of monsters defeated_Start the game"
+
+:::::::::::v4.33 changes:::::::::
+1. ff5_equip_change.ips
+Automatically collects items that were removed due to equipment changes during battle.
+2. ff5_equip_change fix.ips
+
+:::::::::::::v4.50 changes:::::::::::::
+fixed an issue with a cosmetic configuration menu bug.
+Thanks go to Tombo69 for playtesting and bringing this bug to my attention!
+
+I updated the readme and uploaded the patch to archive.org and fantasyanime.com as well as updated the RHDN Forum post for the hack.
+https://www.romhacking.net/forum/index.php?topic=35359.0
+
+:::::::::::::::v4.85 changes:::::::::::::
+1. Made 2x abp,gil,xp an optional version for both Pixel Freemaster and Pixel Freemaster-Kick Butz Edition due to small graphical bug that has yet to be fixed.
+2. Added Super Custom Classes by flamepurge into all versions.
+3. Added replace drag spell with temporary level up 7 levels spell with level rename patch to assist in learning certain level specific blue magic spells.
+
+::::::::::::::::V4.99 Changes::::::::::::::
+1. Added Fast Rom Support by Kandowontu
+2. Added Clean Warriors by Cubear, XJ4cks, and various authors
+3. Added pantz n sleeves final by XJ4cks
+4. Added Mime Galuf Battle Sprites by Clymax
+5. Added optional Co-op Controller Sharing by Starwin
+
+::::::::::::::::v5.0 Changes::::::::::::::::::
+1. Added Dress code v1.0(beta) by Cubear
+2. Ported GBA Script Blue Diamonds (Blue Diamond icons for Blue Magic) by xJ4cks
+3. Ported GBA Script Clean Weapons by xJ4cks
+
+::::::::::::::::v5.20 Changes::::::::::::::::
+*FFV Pixel Freemaster Title Screen Patch by xJ4cks
+*ff5_berserk_command.ips by Inu
+
+::::::::::::::::::v5.55 changes::::::::::::::
+*ff5 auto jump by inu
+*ff5 berserk jump by inu
+*ff5 swdslap standalone Rosodude
+*FFV Clean Krile&Lenna fixed by xJ4cks
+
+::::::::::::::::::::v5.59 changes:::::::::::::::::::(was v5.69 but lr leader switching by cubear needs more time for bug fixing)
+*Bartz intro Boomerang name bug fix by xj4cks and Cubear
+
+::::::::::::::::::::v5.77 changes:::::::::::::::::::   
+*Made optional patch to change LVL UP spell to +1LVL up for 7MP(by xJ4cks). 
+ *Removed co-op controlling sharing (STARWIN) and included as optional patch.
+*Made Double XP, Gil, and ABP an optional patch.
+*Fixed berzerker job by xj4cks. 
+::::::::::::::::::::::v5.78 changes::::::::::::::::::
+(optional)BSNES 60hz fiix (clymax)
+:::::::::::::::::::::::v5.80 changes::::::::::::::::::
+(optional)2X ABP,XP,GIL (C_CLIFF) Fixed by CLYMAX v1.0
+:::::::::::::::::::::::v5.81 changes::::::::::::::::::
+(optional)2X ABP,XP,GIL (C_CLIFF) Fixed by CLYMAXupdated to v1.1
+:::::::::::::::::::::::v5.82 changes::::::::::::::::::
+(optional) !No encounters (press start+walk for encounter)(Cubear)
+:::::::::::::::::::::::v5.88-5.91 changes::::::::::::::::::
+(optional) !START Button starts Encounters (Cubear) 
+(optional) L&R Button Leader Swap (Cubear)
+
+I updated the readme and uploaded the patch to archive.org, Zeldix, gamebanana, romhacking.net,romhacking.org, and fantasyanime.com as well as updated 
+the RHDN Forum post for the hack.
+===========================================================================================
+Special Thanks to following FFV patch creators whose work is included in this .ips patch:
+CONN
+J121
+Kouga47
+Slickproductions.org
+Chicken knife
+Tzepish
+Modoh
+Flamepurge
+T92 and the FFV Tweaks RHDN forum
+C_CliFF
+INU
+Kandowontu
+Cubear
+XJ4cks
+Clymax
+STARWIN
+Rosodude
+
+
+FFV Den Discord And any other authors I failed to mention here.
+And Tombo69 for playtesting some earlier versions. Archive.org for hosting hack patch , RHDN for hosting the hack ans allowing a forum post for the hack 
+patch, and fantasyanime for also hosting the hack patch.
+Also TheGreatBen and Shadowone333 for all their various work in the community, as well as T92 for FFV-Tweaks.
+YeOldeLoreMonger for FFV-Rejobbed https://xj4cks.notion.site/FFV-ReJobbed-d03c54db3ea84e9ea9cf0a79d0497fde
+Clymax for FFV-Whirlwind https://www.romhacking.net/translations/7324/
+ and Squall for all his work at the FFV Den Discord.
+
+Also special thanks for Final Fantasy V games existence:
+Square Enix (owner of Final Fantasy Game series)
+Director(s)	Hironobu Sakaguchi
+Designer(s)	Hiroyuki Ito
+Programmer(s)	Ken Narita
+Artist(s)	Hideo Minaba Yoshitaka Amano
+Composer  Nobuo Uematsu
+Nintendo Corporation for SNES and FFV SNES VERSION
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Legal Disclaimer::
+By downloading and using this patch you acknowledge that:
+FF5,FFV,Final Fantasy V, and Final Fantasy V Pixel Remaster,and the Final Fantasy series are trademarks owned by Square Enix(TM). All rights reserved. SNES is 
+owned by Nintendo(TM) Corporation. Only patch roms of games you own as you may be violating copyright law otherwise. Author/Releaser takes no responsibility 
+for any damages or losses using this patch/software may cause to whatever hardware or software it's used on. No warranties implied as this is a free to distribute 
+and use software patch as long as authors/releasers are credited for the creation of the .ips patch file included and no additional changes are made. This read me 
+file named "Final Fantasy V-Pixel Freemaster and Final Fantasy V-Pixel Freemaster-Kick Butz Edition Read Me and Credits (hack v2.0 by Nintenja)" must be included
+ in order to have permission to release/redistribute this .ips patch or the completed rom hack using this .ips patch file as all authors credited in this read me deserve
+ to be acknowedged. Author/releaser reserves the right to update this rom hack as well,if need be. This piece of software Is fan made free software and is not for sale,
+not for profit,and not meant to be used in conjunction with piracy. Use at own discretion. 
